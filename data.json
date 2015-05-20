@@ -1,0 +1,937 @@
+{
+  "master-course-timetabling": {
+    "courses": {
+      "course": [
+        {
+          "id": "1",
+          "code": "IT5860",
+          "name": "An ninh mạng-1-14 (BK01)",
+          "teacher": "1",
+          "class": "1",
+          "nbSlots": "6"
+        },
+        {
+          "id": "2",
+          "code": "IT6441",
+          "name": "Các phương pháp thiết kế phần mềm tiên tiến-1-14 (BK01)",
+          "teacher": "2",
+          "class": "2",
+          "nbSlots": "8"
+        },
+        {
+          "id": "3",
+          "code": "IT6480",
+          "name": "Các phương pháp và công cụ kiểm chứng PM-1-14 (BK01)",
+          "teacher": "3",
+          "class": "2",
+          "nbSlots": "7"
+        },
+        {
+          "id": "4",
+          "code": "IT6190",
+          "name": "Chuyên đề 2:  Các kỹ thuật hiện đại trong CNTT-1-14 (BK01)",
+          "teacher": "4",
+          "class": "1",
+          "nbSlots": "5"
+        },
+        {
+          "id": "5",
+          "code": "IT6500",
+          "name": "Điện toán đám mây-1-14 (BK01)",
+          "teacher": "5",
+          "class": "1",
+          "nbSlots": "7"
+        },
+        {
+          "id": "6",
+          "code": "IT6520",
+          "name": "Hệ thống thời gian thực-1-14 (BK01)",
+          "teacher": "3",
+          "class": "2",
+          "nbSlots": "9"
+        },
+        {
+          "id": "7",
+          "code": "IT5440",
+          "name": "Kiểm thử và đảm bảo chất lượng Phần mềm-1-14 (BK01)",
+          "teacher": "6",
+          "class": "2",
+          "nbSlots": "10"
+        },
+        {
+          "id": "8",
+          "code": "IT5450",
+          "name": "Kinh tế công nghệ phần mềm-1-14 (BK01)",
+          "teacher": "6",
+          "class": "2",
+          "nbSlots": "9"
+        },
+        {
+          "id": "9",
+          "code": "IT5430",
+          "name": "Mô hình hóa phần mềm-1-14 (BK01)",
+          "teacher": "7",
+          "class": "2",
+          "nbSlots": "9"
+        },
+        {
+          "id": "10",
+          "code": "IT5470",
+          "name": "Mô hình ngẫu nhiên và ứng dụng-1-14 (BK01)",
+          "teacher": "8",
+          "class": "2",
+          "nbSlots": "10"
+        },
+        {
+          "id": "11",
+          "code": "IT6490",
+          "name": "Phương pháp Agile-1-14 (BK01)",
+          "teacher": "2",
+          "class": "2",
+          "nbSlots": "6"
+        },
+        {
+          "id": "12",
+          "code": "IT6530",
+          "name": "Dịch vụ phần mềm và tích hợp nghiệp vụ",
+          "teacher": "2",
+          "class": "2",
+          "nbSlots": "8"
+        },
+        {
+          "id": "13",
+          "code": "IT5460",
+          "name": "Thiết kế và xây dựng phần mềm phân tán-1-14 (BK01)",
+          "teacher": "7",
+          "class": [
+            "1",
+            "2"
+          ],
+          "nbSlots": "9"
+        },
+        {
+          "id": "14",
+          "code": "IT5690",
+          "name": "Tìm kiếm cục bộ dựa trên ràng buộc-1-14 (BK01)",
+          "teacher": "9",
+          "class": "1",
+          "nbSlots": "10"
+        },
+        {
+          "id": "15",
+          "code": "IT6050",
+          "name": "Trí tuệ nhân tạo nâng cao-1-14 (BK01)",
+          "teacher": "10",
+          "class": "1",
+          "nbSlots": "5"
+        },
+        {
+          "id": "16",
+          "code": "IT5620",
+          "name": "Xử lý dữ liệu đa phương tiện-1-14 (BK01)",
+          "teacher": "11",
+          "class": "1",
+          "nbSlots": "8"
+        },
+        {
+          "id": "17",
+          "code": "IT6365",
+          "name": "Công nghệ Web ngữ nghĩa-1-14 (BK01)",
+          "teacher": "12",
+          "class": "1",
+          "nbSlots": "7"
+        },
+        {
+          "id": "18",
+          "code": "IT6565",
+          "name": "Truyền dữ liệu đa phương tiện-1-14 (BK01)",
+          "teacher": "11",
+          "class": "3",
+          "nbSlots": "6"
+        },
+        {
+          "id": "19",
+          "code": "IT6580",
+          "name": "Các giải pháp và chính sách an ninh mạng-1-14 (BK01)",
+          "teacher": "13",
+          "class": "3",
+          "nbSlots": "4"
+        },
+        {
+          "id": "20",
+          "code": "IT6575",
+          "name": "Nguyên lý và mô thức phát triển hệ phân tán-1-14 (BK01)",
+          "teacher": "14",
+          "class": "3",
+          "nbSlots": "4"
+        },
+        {
+          "id": "21",
+          "code": "IT6595",
+          "name": "Web 3.0 và các dịch vụ Internet thế hệ mới-1-14 (BK01)",
+          "teacher": "15",
+          "class": "3",
+          "nbSlots": "6"
+        },
+        {
+          "id": "22",
+          "code": "IT6640",
+          "name": "Xử lý tiếng nói và ứng dụng-1-14 (BK01)",
+          "teacher": "16",
+          "class": "3",
+          "nbSlots": "6"
+        },
+        {
+          "id": "23",
+          "code": "IT6620",
+          "name": "Tính toán khắp nơi và ứng dụng-1-14 (BK01)",
+          "teacher": "14",
+          "class": [
+            "1",
+            "3"
+          ],
+          "nbSlots": "4"
+        },
+        {
+          "id": "24",
+          "code": "IT5390",
+          "name": "Học máy-1-14 (BK01)",
+          "teacher": "17",
+          "class": [
+            "1",
+            "4"
+          ],
+          "nbSlots": "6"
+        },
+        {
+          "id": "25",
+          "code": "IT5340",
+          "name": "Tìm kiếm và trình diễn thông tin-1-14 (BK01)",
+          "teacher": "12",
+          "class": [
+            "1",
+            "4"
+          ],
+          "nbSlots": "7"
+        },
+        {
+          "id": "26",
+          "code": "IT6300",
+          "name": "Các hệ CSDL tiên tiến",
+          "teacher": "18",
+          "class": "4",
+          "nbSlots": "8"
+        },
+        {
+          "id": "27",
+          "code": "IT6330",
+          "name": "Các mô hình và kiến trúc HTTTQL",
+          "teacher": "19",
+          "class": "4",
+          "nbSlots": "10"
+        }
+      ]
+    },
+    "slots": {
+      "slot": [
+        {
+          "id": "1",
+          "name": "Tối thứ 2 (22/09/2014)"
+        },
+        {
+          "id": "2",
+          "name": "Tối thứ 3 (23/09/2014)"
+        },
+        {
+          "id": "3",
+          "name": "Tối thứ 4 (24/09/2014)"
+        },
+        {
+          "id": "4",
+          "name": "Tối thứ 5 (25/09/2014)"
+        },
+        {
+          "id": "5",
+          "name": "Tối thứ 6 (26/09/2014)"
+        },
+        {
+          "id": "6",
+          "name": "Sáng thứ 7 (27/09/2014)"
+        },
+        {
+          "id": "7",
+          "name": "Chiều thứ 7 (27/09/2014)"
+        },
+        {
+          "id": "8",
+          "name": "Sáng thứ CN (28/09/2014)"
+        },
+        {
+          "id": "9",
+          "name": "Chiều thứ CN (28/09/2014)"
+        },
+        {
+          "id": "10",
+          "name": "Tối thứ 2 (29/09/2014)"
+        },
+        {
+          "id": "11",
+          "name": "Tối thứ 3 (30/09/2014)"
+        },
+        {
+          "id": "12",
+          "name": "Tối thứ 4 (01/10/2014)"
+        },
+        {
+          "id": "13",
+          "name": "Tối thứ 5 (02/10/2014)"
+        },
+        {
+          "id": "14",
+          "name": "Tối thứ 6 (03/10/2014)"
+        },
+        {
+          "id": "15",
+          "name": "Sáng thứ 7 (04/10/2014)"
+        },
+        {
+          "id": "16",
+          "name": "Chiều thứ 7 (04/10/2014)"
+        },
+        {
+          "id": "17",
+          "name": "Sáng thứ CN (05/10/2014)"
+        },
+        {
+          "id": "18",
+          "name": "Chiều thứ CN (05/10/2014)"
+        },
+        {
+          "id": "19",
+          "name": "Tối thứ 2 (06/10/2014)"
+        },
+        {
+          "id": "20",
+          "name": "Tối thứ 3 (07/10/2014)"
+        },
+        {
+          "id": "21",
+          "name": "Tối thứ 4 (08/10/2014)"
+        },
+        {
+          "id": "22",
+          "name": "Tối thứ 5 (09/10/2014)"
+        },
+        {
+          "id": "23",
+          "name": "Tối thứ 6 (10/10/2014)"
+        },
+        {
+          "id": "24",
+          "name": "Sáng thứ 7 (11/10/2014)"
+        },
+        {
+          "id": "25",
+          "name": "Chiều thứ 7 (11/10/2014)"
+        },
+        {
+          "id": "26",
+          "name": "Sáng thứ CN (12/10/2014)"
+        },
+        {
+          "id": "27",
+          "name": "Chiều thứ CN (12/10/2014)"
+        },
+        {
+          "id": "28",
+          "name": "Tối thứ 2 (13/10/2014)"
+        },
+        {
+          "id": "29",
+          "name": "Tối thứ 3 (14/10/2014)"
+        },
+        {
+          "id": "30",
+          "name": "Tối thứ 4 (15/10/2014)"
+        },
+        {
+          "id": "31",
+          "name": "Tối thứ 5 (16/10/2014)"
+        },
+        {
+          "id": "32",
+          "name": "Tối thứ 6 (17/10/2014)"
+        },
+        {
+          "id": "33",
+          "name": "Sáng thứ 7 (18/10/2014)"
+        },
+        {
+          "id": "34",
+          "name": "Chiều thứ 7 (18/10/2014)"
+        },
+        {
+          "id": "35",
+          "name": "Sáng thứ CN (19/10/2014)"
+        },
+        {
+          "id": "36",
+          "name": "Chiều thứ CN (19/10/2014)"
+        },
+        {
+          "id": "37",
+          "name": "Tối thứ 2 (20/10/2014)"
+        },
+        {
+          "id": "38",
+          "name": "Tối thứ 3 (21/10/2014)"
+        },
+        {
+          "id": "39",
+          "name": "Tối thứ 4 (22/10/2014)"
+        },
+        {
+          "id": "40",
+          "name": "Tối thứ 5 (23/10/2014)"
+        },
+        {
+          "id": "41",
+          "name": "Tối thứ 6 (24/10/2014)"
+        },
+        {
+          "id": "42",
+          "name": "Sáng thứ 7 (25/10/2014)"
+        },
+        {
+          "id": "43",
+          "name": "Chiều thứ 7 (25/10/2014)"
+        },
+        {
+          "id": "44",
+          "name": "Sáng thứ CN (26/10/2014)"
+        },
+        {
+          "id": "45",
+          "name": "Chiều thứ CN (26/10/2014)"
+        },
+        {
+          "id": "46",
+          "name": "Tối thứ 2 (03/11/2014)"
+        },
+        {
+          "id": "47",
+          "name": "Tối thứ 3 (04/11/2014)"
+        },
+        {
+          "id": "48",
+          "name": "Tối thứ 4 (05/11/2014)"
+        },
+        {
+          "id": "49",
+          "name": "Tối thứ 5 (06/11/2014)"
+        },
+        {
+          "id": "50",
+          "name": "Tối thứ 6 (07/11/2014)"
+        },
+        {
+          "id": "51",
+          "name": "Sáng thứ 7 (08/11/2014)"
+        },
+        {
+          "id": "52",
+          "name": "Chiều thứ 7 (08/11/2014)"
+        },
+        {
+          "id": "53",
+          "name": "Sáng thứ CN (09/11/2014)"
+        },
+        {
+          "id": "54",
+          "name": "Chiều thứ CN (09/11/2014)"
+        },
+        {
+          "id": "55",
+          "name": "Tối thứ 2 (10/11/2014)"
+        },
+        {
+          "id": "56",
+          "name": "Tối thứ 3 (11/11/2014)"
+        },
+        {
+          "id": "57",
+          "name": "Tối thứ 4 (12/11/2014)"
+        },
+        {
+          "id": "58",
+          "name": "Tối thứ 5 (13/11/2014)"
+        },
+        {
+          "id": "59",
+          "name": "Tối thứ 6 (14/11/2014)"
+        },
+        {
+          "id": "60",
+          "name": "Sáng thứ 7 (15/11/2014)"
+        },
+        {
+          "id": "61",
+          "name": "Chiều thứ 7 (15/11/2014)"
+        },
+        {
+          "id": "62",
+          "name": "Sáng thứ CN (16/11/2014)"
+        },
+        {
+          "id": "63",
+          "name": "Chiều thứ CN (16/11/2014)"
+        },
+        {
+          "id": "64",
+          "name": "Tối thứ 2 (17/11/2014)"
+        },
+        {
+          "id": "65",
+          "name": "Tối thứ 3 (18/11/2014)"
+        },
+        {
+          "id": "66",
+          "name": "Tối thứ 4 (19/11/2014)"
+        },
+        {
+          "id": "67",
+          "name": "Tối thứ 5 (20/11/2014)"
+        },
+        {
+          "id": "68",
+          "name": "Tối thứ 6 (21/11/2014)"
+        },
+        {
+          "id": "69",
+          "name": "Sáng thứ 7 (22/11/2014)"
+        },
+        {
+          "id": "70",
+          "name": "Chiều thứ 7 (22/11/2014)"
+        },
+        {
+          "id": "71",
+          "name": "Sáng thứ CN (23/11/2014)"
+        },
+        {
+          "id": "72",
+          "name": "Chiều thứ CN (23/11/2014)"
+        },
+        {
+          "id": "73",
+          "name": "Tối thứ 2 (24/11/2014)"
+        },
+        {
+          "id": "74",
+          "name": "Tối thứ 3 (25/11/2014)"
+        },
+        {
+          "id": "75",
+          "name": "Tối thứ 4 (26/11/2014)"
+        },
+        {
+          "id": "76",
+          "name": "Tối thứ 5 (27/11/2014)"
+        },
+        {
+          "id": "77",
+          "name": "Tối thứ 6 (28/11/2014)"
+        },
+        {
+          "id": "78",
+          "name": "Sáng thứ 7 (29/11/2014)"
+        },
+        {
+          "id": "79",
+          "name": "Chiều thứ 7 (29/11/2014)"
+        },
+        {
+          "id": "80",
+          "name": "Sáng thứ CN (30/11/2014)"
+        },
+        {
+          "id": "81",
+          "name": "Chiều thứ CN (30/11/2014)"
+        },
+        {
+          "id": "82",
+          "name": "Tối thứ 2 (01/12/2014)"
+        },
+        {
+          "id": "83",
+          "name": "Tối thứ 3 (02/12/2014)"
+        },
+        {
+          "id": "84",
+          "name": "Tối thứ 4 (03/12/2014)"
+        },
+        {
+          "id": "85",
+          "name": "Tối thứ 5 (04/12/2014)"
+        },
+        {
+          "id": "86",
+          "name": "Tối thứ 6 (05/12/2014)"
+        },
+        {
+          "id": "87",
+          "name": "Sáng thứ 7 (06/12/2014)"
+        },
+        {
+          "id": "88",
+          "name": "Chiều thứ 7 (06/12/2014)"
+        },
+        {
+          "id": "89",
+          "name": "Sáng thứ CN (07/12/2014)"
+        },
+        {
+          "id": "90",
+          "name": "Chiều thứ CN (07/12/2014)"
+        },
+        {
+          "id": "91",
+          "name": "Tối thứ 2 (15/12/2014)"
+        },
+        {
+          "id": "92",
+          "name": "Tối thứ 3 (16/12/2014)"
+        },
+        {
+          "id": "93",
+          "name": "Tối thứ 4 (17/12/2014)"
+        },
+        {
+          "id": "94",
+          "name": "Tối thứ 5 (18/12/2014)"
+        },
+        {
+          "id": "95",
+          "name": "Tối thứ 6 (19/12/2014)"
+        },
+        {
+          "id": "96",
+          "name": "Sáng thứ 7 (20/12/2014)"
+        },
+        {
+          "id": "97",
+          "name": "Chiều thứ 7 (20/12/2014)"
+        },
+        {
+          "id": "98",
+          "name": "Sáng thứ CN (21/12/2014)"
+        },
+        {
+          "id": "99",
+          "name": "Chiều thứ CN (21/12/2014)"
+        },
+        {
+          "id": "100",
+          "name": "Tối thứ 2 (22/12/2014)"
+        },
+        {
+          "id": "101",
+          "name": "Tối thứ 3 (23/12/2014)"
+        },
+        {
+          "id": "102",
+          "name": "Tối thứ 4 (24/12/2014)"
+        },
+        {
+          "id": "103",
+          "name": "Tối thứ 5 (25/12/2014)"
+        },
+        {
+          "id": "104",
+          "name": "Tối thứ 6 (26/12/2014)"
+        },
+        {
+          "id": "105",
+          "name": "Sáng thứ 7 (27/12/2014)"
+        },
+        {
+          "id": "106",
+          "name": "Chiều thứ 7 (27/12/2014)"
+        },
+        {
+          "id": "107",
+          "name": "Sáng thứ CN (28/12/2014)"
+        },
+        {
+          "id": "108",
+          "name": "Chiều thứ CN (28/12/2014)"
+        },
+        {
+          "id": "109",
+          "name": "Tối thứ 2 (29/12/2014)"
+        },
+        {
+          "id": "110",
+          "name": "Tối thứ 3 (30/12/2014)"
+        },
+        {
+          "id": "111",
+          "name": "Tối thứ 4 (31/12/2014)"
+        },
+        {
+          "id": "112",
+          "name": "Tối thứ 5 (01/01/2015)"
+        },
+        {
+          "id": "113",
+          "name": "Tối thứ 6 (02/01/2015)"
+        },
+        {
+          "id": "114",
+          "name": "Sáng thứ 7 (03/01/2015)"
+        },
+        {
+          "id": "115",
+          "name": "Chiều thứ 7 (03/01/2015)"
+        },
+        {
+          "id": "116",
+          "name": "Sáng thứ CN (04/01/2015)"
+        },
+        {
+          "id": "117",
+          "name": "Chiều thứ CN (04/01/2015)"
+        },
+        {
+          "id": "118",
+          "name": "Tối thứ 2 (05/01/2015)"
+        },
+        {
+          "id": "119",
+          "name": "Tối thứ 3 (06/01/2015)"
+        },
+        {
+          "id": "120",
+          "name": "Tối thứ 4 (07/01/2015)"
+        },
+        {
+          "id": "121",
+          "name": "Tối thứ 5 (08/01/2015)"
+        },
+        {
+          "id": "122",
+          "name": "Tối thứ 6 (09/01/2015)"
+        },
+        {
+          "id": "123",
+          "name": "Sáng thứ 7 (10/01/2015)"
+        },
+        {
+          "id": "124",
+          "name": "Chiều thứ 7 (10/01/2015)"
+        },
+        {
+          "id": "125",
+          "name": "Sáng thứ CN (11/01/2015)"
+        },
+        {
+          "id": "126",
+          "name": "Chiều thứ CN (11/01/2015)"
+        },
+        {
+          "id": "127",
+          "name": "Tối thứ 2 (12/01/2015)"
+        },
+        {
+          "id": "128",
+          "name": "Tối thứ 3 (13/01/2015)"
+        },
+        {
+          "id": "129",
+          "name": "Tối thứ 4 (14/01/2015)"
+        },
+        {
+          "id": "130",
+          "name": "Tối thứ 5 (15/01/2015)"
+        },
+        {
+          "id": "131",
+          "name": "Tối thứ 6 (16/01/2015)"
+        },
+        {
+          "id": "132",
+          "name": "Sáng thứ 7 (17/01/2015)"
+        },
+        {
+          "id": "133",
+          "name": "Chiều thứ 7 (17/01/2015)"
+        },
+        {
+          "id": "134",
+          "name": "Sáng thứ CN (18/01/2015)"
+        },
+        {
+          "id": "135",
+          "name": "Chiều thứ CN (18/01/2015)"
+        }
+      ]
+    },
+    "teachers": {
+      "teacher": [
+        {
+          "id": "1",
+          "name": "Nguyễn Kim Khánh",
+          "busy": {
+            "slot": "1"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Vũ Thị Hương Giang",
+          "busy": {
+            "slot": "2"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Nguyễn Thanh Hùng",
+          "busy": {
+            "slot": "3"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Phạm Đăng Hải",
+          "busy": {
+            "slot": "4"
+          }
+        },
+        {
+          "id": "5",
+          "name": "Nguyễn Bình Minh",
+          "busy": {
+            "slot": "5"
+          }
+        },
+        {
+          "id": "6",
+          "name": "Huỳnh Quyết Thắng",
+          "busy": {
+            "slot": "6"
+          }
+        },
+        {
+          "id": "7",
+          "name": "Cao Tuấn Dũng",
+          "busy": {
+            "slot": "7"
+          }
+        },
+        {
+          "id": "8",
+          "name": "Nguyễn Khanh Văn",
+          "busy": {
+            "slot": "8"
+          }
+        },
+        {
+          "id": "9",
+          "name": "Phạm Quang Dũng",
+          "busy": {
+            "slot": "9"
+          }
+        },
+        {
+          "id": "10",
+          "name": "Lê Thanh Hương",
+          "busy": {
+            "slot": "10"
+          }
+        },
+        {
+          "id": "11",
+          "name": "Nguyễn Thị Hoàng Lan",
+          "busy": {
+            "slot": "11"
+          }
+        },
+        {
+          "id": "12",
+          "name": "Nguyễn Bá Ngọc",
+          "busy": {
+            "slot": "12"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Nguyễn Linh Giang",
+          "busy": {
+            "slot": "13"
+          }
+        },
+        {
+          "id": "14",
+          "name": "Hà Quốc Trung",
+          "busy": {
+            "slot": "14"
+          }
+        },
+        {
+          "id": "15",
+          "name": "Phạm Huy Hoàng",
+          "busy": {
+            "slot": "15"
+          }
+        },
+        {
+          "id": "16",
+          "name": "Nguyễn Hồng Quang",
+          "busy": {
+            "slot": "16"
+          }
+        },
+        {
+          "id": "17",
+          "name": "Thân Quang Khoát",
+          "busy": {
+            "slot": "17"
+          }
+        },
+        {
+          "id": "18",
+          "name": "Nguyễn Kim Anh",
+          "busy": {
+            "slot": "18"
+          }
+        },
+        {
+          "id": "19",
+          "name": "Phạm Văn Hải",
+          "busy": {
+            "slot": "19"
+          }
+        }
+      ]
+    },
+    "classes": {
+      "class": [
+        {
+          "id": "1",
+          "name": "CNTT"
+        },
+        {
+          "id": "2",
+          "name": "KTPM"
+        },
+        {
+          "id": "3",
+          "name": "TTM"
+        },
+        {
+          "id": "4",
+          "name": "HTTT"
+        }
+      ]
+    }
+  }
+}
